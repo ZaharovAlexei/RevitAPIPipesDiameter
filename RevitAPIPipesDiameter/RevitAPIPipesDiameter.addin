@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type ="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPIPipesDiameter.dll"</Assembly>
+		<AddInId>16F20C89-4264-4AF4-942E-1987AD45AE20</AddInId>
+		<FullClassName>RevitAPIPipesDiameter.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Задать наименование труб</Text>
+	</AddIn>
+</RevitAddIns>
